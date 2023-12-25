@@ -1,6 +1,6 @@
-mod day21;
+mod day24;
 
 fn main() {
-    println!("Day 21");
-    day21::main();
+    println!("Day 24");
+    day24::main();
 }
